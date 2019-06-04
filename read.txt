@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F083-1F40
+
+ Directory of C:\Users\pavan\Desktop\Java Projects
+
+06/04/2019  06:18 PM    <DIR>          .
+06/04/2019  06:18 PM    <DIR>          ..
+06/04/2019  06:17 PM               673 Hello.class
+06/04/2019  02:25 PM               142 Hello.java
+06/04/2019  06:18 PM                 0 read.txt
+               3 File(s)            815 bytes
+               2 Dir(s)  139,365,285,888 bytes free
